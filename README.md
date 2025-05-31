@@ -2,7 +2,7 @@
 
 ***
 
-The implementation for the KDD-25 paper "Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization".
+The implementation for the KDD 2025 paper "Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization".
 
 ***
 
@@ -73,11 +73,16 @@ After running the program, the result file *"Dense_X_output.txt"* will be genera
 
 # Reference
 
-
+Mingjia Li, Junkai Tong, Yiyang Huang, Yifei Ding, Hong Qian and Aimin Zhou "Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization" In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025.
 
 ## Bibtex
 ```
-@inproceedings{
+@inproceedings{li2025pcat,
+ author = {Mingjia Li, Junkai Tong, Yiyang Huang, Yifei Ding, Hong Qian, Aimin Zhou},
+ booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+ title = {Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization},
+ year = {2025},
+ address = {Toronto, Canada}
 }
 ```
  
