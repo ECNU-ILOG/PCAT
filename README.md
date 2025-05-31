@@ -73,7 +73,7 @@ After running the program, the result file *"Dense_X_output.txt"* will be genera
 
 # Reference
 
-Yuanhao Liu, Shuo Liu, Yimeng Liu, Chanjin Zheng, Wei Zhang, Hong Qian "A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments" In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025.
+
 
 ## Bibtex
 ```
