@@ -77,12 +77,7 @@ Yuanhao Liu, Shuo Liu, Yimeng Liu, Chanjin Zheng, Wei Zhang, Hong Qian "A Dual-F
 
 ## Bibtex
 ```
-@inproceedings{liu2025dfcd,
- author = {Yuanhao Liu, Shuo Liu, Yimeng Liu, Chanjin Zheng, Wei Zhang, and Hong Qian},
- booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
- title = {A Dual-Fusion Cognitive Diagnosis Framework for Open Student Learning Environments},
- year = {2025},
- address = {Toronto, Canada}
+@inproceedings{
 }
 ```
  
