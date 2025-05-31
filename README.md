@@ -24,8 +24,14 @@ pip install -r requirements.txt
 
 # 🛠️ File distribution
 
-To make it easier for other scholars to use our code, we'll explain the purpose and location of each file in the root directory:
+To make it easier for other scholars to use our code, we'll explain the purpose and location of each file in the root directory:  
+
 1.**data** 
+Because the dataset is too large, we compress it when we upload it. So before using this code, you should unzip the dataset file using the following command:
+```shell
+unzip data.zip
+```
+
 This folder is used to store the data set after densification of the original data set,as well as the densification handler.  
 You can use the following command to process existing data sets or custom data sets.
 ```shell
