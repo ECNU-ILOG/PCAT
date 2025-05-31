@@ -77,8 +77,8 @@ Mingjia Li, Junkai Tong, Yiyang Huang, Yifei Ding, Hong Qian and Aimin Zhou "Pap
 
 ## Bibtex
 ```
-@inproceedings{li2025pcat,
- author = {Mingjia Li, Junkai Tong, Yiyang Huang, Yifei Ding, Hong Qian, Aimin Zhou},
+@inproceedings{Li2025PCAT,
+ author = {Mingjia Li and Junkai Tong and Yiyang Huang and Yifei Ding and Hong Qian and Aimin Zhou},
  booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
  title = {Paper-Level Computerized Adaptive Testing for High-Stakes Examination via Multi-Objective Optimization},
  year = {2025},
